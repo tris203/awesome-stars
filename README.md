@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [Go](#go)
 - [JavaScript](#javascript)
@@ -18,12 +19,17 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
+## C 
+
+- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
+
 ## C# # 
 
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 
 ## Go 
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tris203/htmxx](https://github.com/tris203/htmxx) - A sort of copy of X written in Go and HTMX - available at htmxx.com
 
@@ -41,6 +47,7 @@
 
 ## Lua 
 
+- [towry/nvim](https://github.com/towry/nvim) - Towry's Neovim config
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Neovim persistent colorscheme picker and previewer
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
@@ -54,6 +61,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ## PHP 
