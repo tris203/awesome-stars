@@ -18,6 +18,7 @@
 - [docker](#docker)
 - [github](#github)
 - [github-api](#github-api)
+- [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
@@ -58,10 +59,12 @@
 
 ## awesome 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## awesome-list 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## c 
@@ -97,6 +100,11 @@
 
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 
+## go 
+
+- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+
 ## golang 
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -107,6 +115,7 @@
 
 ## hacktoberfest 
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
 
 ## html 
@@ -137,6 +146,7 @@
 
 ## neovim 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Neovim persistent colorscheme picker and previewer
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -164,6 +174,7 @@
 
 ## others 
 
+- [towry/nvim](https://github.com/towry/nvim) - Towry's Neovim config
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for testing COSMIC on NixOS
 - [tris203/htmxx](https://github.com/tris203/htmxx) - A sort of copy of X written in Go and HTMX - available at htmxx.com
