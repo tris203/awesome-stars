@@ -174,6 +174,7 @@
 
 ## others 
 
+- [Fetchflow/.github](https://github.com/Fetchflow/.github) - 
 - [towry/nvim](https://github.com/towry/nvim) - Towry's Neovim config
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for testing COSMIC on NixOS
