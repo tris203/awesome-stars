@@ -15,6 +15,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -77,6 +78,10 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+
+## Rust 
+
+- [github-language-server/github-lsp](https://github.com/github-language-server/github-lsp) - A simple LSP for helping with local edits of Wiki and README
 
 ## Shell 
 
