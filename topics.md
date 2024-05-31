@@ -94,6 +94,7 @@
 
 ## github 
 
+- [github-language-server/github-lsp](https://github.com/github-language-server/github-lsp) - A simple LSP for helping with local edits of Wiki and README
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 
 ## github-api 
