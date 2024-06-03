@@ -16,6 +16,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
@@ -24,6 +25,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
+- [linux](#linux)
 - [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -93,6 +95,10 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
+## dotfiles 
+
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+
 ## github 
 
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
@@ -130,6 +136,10 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
+
+## linux 
+
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 
 ## llm 
 
@@ -191,6 +201,8 @@
 
 ## others 
 
+- [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [Fetchflow/.github](https://github.com/Fetchflow/.github) - 
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
