@@ -48,6 +48,8 @@
 
 ## Lua 
 
+- [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
@@ -93,6 +95,7 @@
 
 ## TypeScript 
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tris203/bigreghuntTS](https://github.com/tris203/bigreghuntTS) - 
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
