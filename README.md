@@ -48,6 +48,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
