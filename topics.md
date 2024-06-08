@@ -167,6 +167,7 @@
 
 ## neovim 
 
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) - 🤖 Neovim code suggestion and completion (just like GitHub Copilot, but locally using Ollama)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
