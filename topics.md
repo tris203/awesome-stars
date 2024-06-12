@@ -202,6 +202,7 @@
 
 ## others 
 
+- [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Hopefully, support for rzls in neovim
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
