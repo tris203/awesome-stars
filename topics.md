@@ -202,6 +202,7 @@
 
 ## others 
 
+- [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Hopefully, support for rzls in neovim
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
