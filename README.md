@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [Fennel](#fennel)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Just](#just)
@@ -27,6 +28,10 @@
 ## C# # 
 
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+
+## Fennel 
+
+- [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) - Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter
 
 ## Go 
 
