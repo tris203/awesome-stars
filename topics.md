@@ -16,7 +16,6 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
-- [dotfiles](#dotfiles)
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
@@ -25,7 +24,6 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
-- [linux](#linux)
 - [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -92,12 +90,9 @@
 
 ## docker 
 
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-## dotfiles 
-
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 
 ## github 
 
@@ -124,6 +119,7 @@
 
 ## hacktoberfest 
 
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
 
@@ -136,10 +132,6 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
-
-## linux 
-
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 
 ## llm 
 
