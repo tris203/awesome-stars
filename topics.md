@@ -194,6 +194,7 @@
 
 ## others 
 
+- [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) - Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
