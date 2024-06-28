@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
 - [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
