@@ -106,6 +106,7 @@
 
 ## go 
 
+- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
 - [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 
