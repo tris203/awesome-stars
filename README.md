@@ -36,6 +36,7 @@
 
 ## Go 
 
+- [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
 - [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
@@ -69,7 +70,7 @@
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - All things color related. All Lua.
+- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
