@@ -36,6 +36,7 @@
 
 ## Go 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
 - [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
