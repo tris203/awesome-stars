@@ -170,6 +170,7 @@
 ## neovim 
 
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) - 🤖 Neovim code suggestion and completion (just like GitHub Copilot, but locally using Ollama)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
@@ -210,7 +211,6 @@
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Hopefully, support for rzls in neovim
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
-- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [Fetchflow/.github](https://github.com/Fetchflow/.github) - 
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
