@@ -207,6 +207,7 @@
 
 ## others 
 
+- [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) - Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter
