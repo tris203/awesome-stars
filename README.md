@@ -85,6 +85,7 @@
 
 ## Others 
 
+- [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
