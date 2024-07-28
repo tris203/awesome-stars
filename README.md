@@ -58,6 +58,7 @@
 
 ## Lua 
 
+- [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Hopefully, support for rzls in neovim
@@ -85,6 +86,7 @@
 
 ## Others 
 
+- [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
