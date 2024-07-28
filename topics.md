@@ -207,6 +207,8 @@
 
 ## others 
 
+- [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
+- [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [tris203/lookatmego](https://github.com/tris203/lookatmego) - GoLang MD Presentation Application
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
