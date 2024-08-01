@@ -12,6 +12,7 @@
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -79,6 +80,10 @@
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) - ⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
+
+## Makefile 
+
+- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
 ## Nix 
 
