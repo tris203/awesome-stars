@@ -207,6 +207,7 @@
 
 ## others 
 
+- [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
 - [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
