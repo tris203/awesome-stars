@@ -109,7 +109,7 @@
 
 ## Rust 
 
-- [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - 
+- [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - Mlua-based Luajit bindings to tursodatabase/libsql. Synchronous only, for now. Entirely untested and not ready for use.
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
 - [github-language-server/github-lsp](https://github.com/github-language-server/github-lsp) - A simple LSP for helping with local edits of Wiki and README
 
