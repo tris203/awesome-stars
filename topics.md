@@ -11,7 +11,6 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [c](#c)
-- [csharp](#csharp)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -41,6 +40,7 @@
 - [postgresql](#postgresql)
 - [pwa](#pwa)
 - [reactjs](#reactjs)
+- [rust](#rust)
 - [svelte](#svelte)
 - [vim](#vim)
 - [vuejs](#vuejs)
@@ -74,10 +74,6 @@
 
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## csharp 
-
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 
 ## devops 
 
@@ -254,6 +250,10 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
+## rust 
+
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+
 ## svelte 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -272,7 +272,7 @@
 
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 
 
 ## License
