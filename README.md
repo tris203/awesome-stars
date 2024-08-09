@@ -82,7 +82,7 @@
 
 ## Nix 
 
-- [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for testing COSMIC on NixOS
+- [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for using COSMIC on NixOS
 
 ## Others 
 
