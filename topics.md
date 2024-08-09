@@ -217,7 +217,7 @@
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
-- [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for testing COSMIC on NixOS
+- [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for using COSMIC on NixOS
 - [tris203/htmxx](https://github.com/tris203/htmxx) - A sort of copy of X written in Go and HTMX - available at htmxx.com
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
