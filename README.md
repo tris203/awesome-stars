@@ -70,7 +70,7 @@
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
-- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An UNOFFICIAL Tailwind CSS integration and tooling for Neovim
+- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) - ⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations
