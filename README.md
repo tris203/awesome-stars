@@ -42,6 +42,7 @@
 
 ## JavaScript 
 
+- [arthurfiorette/proposal-safe-assignment-operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator) - Draft for ECMAScript Error Safe Assignment Operator
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
@@ -54,6 +55,7 @@
 
 ## Lua 
 
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
