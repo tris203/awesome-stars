@@ -43,6 +43,7 @@
 - [reactjs](#reactjs)
 - [rust](#rust)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [vim](#vim)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -235,7 +236,6 @@
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) - ⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
-- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [tris203/bigreghuntTS](https://github.com/tris203/bigreghuntTS) - 
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
 - [DisboxApp/server](https://github.com/DisboxApp/server) - The Disbox server.
@@ -270,6 +270,11 @@
 ## svelte 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+## tailwindcss 
+
+- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
+- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 
 ## vim 
 
