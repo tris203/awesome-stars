@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [devops](#devops)
 - [discord](#discord)
@@ -76,6 +77,10 @@
 
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## c-plus-plus 
+
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
 ## cli 
 
