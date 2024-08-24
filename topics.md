@@ -45,6 +45,7 @@
 - [rust](#rust)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
+- [terminal](#terminal)
 - [vim](#vim)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -280,6 +281,10 @@
 
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+
+## terminal 
+
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 
 ## vim 
 
