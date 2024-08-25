@@ -13,6 +13,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [database](#database)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -43,6 +44,7 @@
 - [pwa](#pwa)
 - [reactjs](#reactjs)
 - [rust](#rust)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
@@ -86,6 +88,10 @@
 ## cli 
 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+
+## database 
+
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 ## devops 
 
@@ -270,8 +276,13 @@
 
 ## rust 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+
+## sqlite 
+
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 ## svelte 
 
