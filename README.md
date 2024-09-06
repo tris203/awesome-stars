@@ -56,6 +56,7 @@
 
 ## Lua 
 
+- [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
