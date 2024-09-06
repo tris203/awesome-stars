@@ -226,6 +226,7 @@
 
 ## others 
 
+- [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [arthurfiorette/proposal-safe-assignment-operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator) - Draft for ECMAScript Error Safe Assignment Operator
 - [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - Mlua-based Luajit bindings to tursodatabase/libsql. Synchronous only, for now. Entirely untested and not ready for use.
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
