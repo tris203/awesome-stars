@@ -56,6 +56,7 @@
 
 ## Lua 
 
+- [seblj/roslyn.nvim](https://github.com/seblj/roslyn.nvim) - Roslyn LSP plugin for neovim
 - [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
