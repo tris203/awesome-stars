@@ -56,6 +56,7 @@
 
 ## Lua 
 
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 - [seblj/roslyn.nvim](https://github.com/seblj/roslyn.nvim) - Roslyn LSP plugin for neovim
 - [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
@@ -76,7 +77,6 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
-- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) - ⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
