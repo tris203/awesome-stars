@@ -92,6 +92,8 @@
 
 ## Others 
 
+- [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
+- [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
 - [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
