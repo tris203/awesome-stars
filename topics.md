@@ -228,6 +228,7 @@
 
 ## others 
 
+- [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
 - [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
