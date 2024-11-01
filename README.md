@@ -92,6 +92,7 @@
 
 ## Others 
 
+- [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
 - [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
 - [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
