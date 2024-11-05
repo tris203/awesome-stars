@@ -228,6 +228,8 @@
 
 ## others 
 
+- [willothy/durable.nvim](https://github.com/willothy/durable.nvim) - SQLite-backed key-value store and persistent objects for Neovim
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
 - [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
 - [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
