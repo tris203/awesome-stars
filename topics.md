@@ -22,7 +22,6 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
-- [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
@@ -36,7 +35,6 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
-- [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
 - [php](#php)
@@ -138,10 +136,6 @@
 - [Jeffail/leaps](https://github.com/Jeffail/leaps) - A pair programming service using operational transforms
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
-## good-first-issue 
-
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-
 ## hacktoberfest 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -221,10 +215,6 @@
 ## npm 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-
-## open-source 
-
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ## others 
 
