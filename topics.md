@@ -13,11 +13,13 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [csharp](#csharp)
 - [database](#database)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [dotnet](#dotnet)
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
@@ -88,6 +90,10 @@
 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 
+## csharp 
+
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C#
+
 ## database 
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -110,6 +116,10 @@
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+## dotnet 
+
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C#
 
 ## github 
 
