@@ -125,7 +125,7 @@
 ## Rust 
 
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
-- [ribru17/ts_query_ls](https://github.com/ribru17/ts_query_ls) - An LSP implementation for Tree-sitter's query files
+- [ribru17/ts_query_ls](https://github.com/ribru17/ts_query_ls) - LSP implementation for Tree-sitter's query files
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - Mlua-based Luajit bindings to tursodatabase/libsql. Synchronous only, for now. Entirely untested and not ready for use.
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
