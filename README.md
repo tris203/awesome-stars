@@ -21,6 +21,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Zig](#zig)
 
 ## C 
 
@@ -149,6 +150,10 @@
 
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
