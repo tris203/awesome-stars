@@ -241,6 +241,7 @@
 
 ## others 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [stevearc/benchmark.nvim](https://github.com/stevearc/benchmark.nvim) - Benchmarking and profiling tools for Neovim plugins
 - [ribru17/ts_query_ls](https://github.com/ribru17/ts_query_ls) - LSP implementation for Tree-sitter's query files
 - [willothy/durable.nvim](https://github.com/willothy/durable.nvim) - SQLite-backed key-value store and persistent objects for Neovim
