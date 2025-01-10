@@ -27,6 +27,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
+- [linux](#linux)
 - [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -152,6 +153,7 @@
 
 ## hacktoberfest 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -169,6 +171,10 @@
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
+
+## linux 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## llm 
 
