@@ -139,6 +139,7 @@
 
 ## Shell 
 
+- [lewis6991/gh_notify.tmux](https://github.com/lewis6991/gh_notify.tmux) - Github notification widget for tmux.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
