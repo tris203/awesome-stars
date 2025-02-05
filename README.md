@@ -49,7 +49,7 @@
 
 ## JavaScript 
 
-- [arthurfiorette/proposal-try-statements](https://github.com/arthurfiorette/proposal-try-statements) - Draft for ECMAScript Error Safe Assignment Operator
+- [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - Draft for ECMAScript Error Safe Assignment Operator
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
@@ -130,7 +130,7 @@
 
 ## Rust 
 
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [ribru17/ts_query_ls](https://github.com/ribru17/ts_query_ls) - LSP implementation for Tree-sitter's query files
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [willothy/libsql-lua](https://github.com/willothy/libsql-lua) - Mlua-based Luajit bindings to tursodatabase/libsql. Synchronous only, for now. Entirely untested and not ready for use.
