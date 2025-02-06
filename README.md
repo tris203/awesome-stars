@@ -73,7 +73,7 @@
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
-- [seblj/roslyn.nvim](https://github.com/seblj/roslyn.nvim) - Roslyn LSP plugin for neovim
+- [seblyng/roslyn.nvim](https://github.com/seblyng/roslyn.nvim) - Roslyn LSP plugin for neovim
 - [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [tris203/.dotfiles](https://github.com/tris203/.dotfiles) - 
