@@ -130,6 +130,7 @@
 
 ## Rust 
 
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [ribru17/ts_query_ls](https://github.com/ribru17/ts_query_ls) - LSP implementation for Tree-sitter's query files
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
