@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [Fennel](#fennel)
 - [Go](#go)
 - [JavaScript](#javascript)
@@ -32,6 +33,10 @@
 ## C# # 
 
 - [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C#
+
+## C++ 
+
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 ## Fennel 
 
