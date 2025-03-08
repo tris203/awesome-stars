@@ -255,6 +255,7 @@
 
 ## others 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [lewis6991/gh_notify.tmux](https://github.com/lewis6991/gh_notify.tmux) - Github notification widget for tmux.
 - [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git) - Git source for blink.cmp
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
