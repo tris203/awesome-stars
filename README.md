@@ -117,6 +117,7 @@
 
 ## Others 
 
+- [willothy/mcp-lsp](https://github.com/willothy/mcp-lsp) - 
 - [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
 - [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
