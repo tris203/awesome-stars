@@ -107,6 +107,7 @@
 
 ## Makefile 
 
+- [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
 ## Nix 
@@ -119,7 +120,6 @@
 
 - [willothy/mcp-lsp](https://github.com/willothy/mcp-lsp) - 
 - [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
-- [Crashdummyy/roslynLanguageServer](https://github.com/Crashdummyy/roslynLanguageServer) - 
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
 - [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
