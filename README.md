@@ -70,6 +70,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of Quality-of-life features related to folding.
 - [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) - ⚙️ Configurable GitHub Copilot blink.cmp source for Neovim
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim
 - [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git) - Git source for blink.cmp
