@@ -12,6 +12,7 @@
 - [awesome-list](#awesome-list)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [csharp](#csharp)
 - [database](#database)
@@ -89,6 +90,10 @@
 
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
+## chrome-extension 
+
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+
 ## cli 
 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -128,6 +133,7 @@
 
 ## github 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [github-language-server/github-lsp](https://github.com/github-language-server/github-lsp) - A simple LSP for helping with local edits of Wiki and README
