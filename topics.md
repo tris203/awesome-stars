@@ -44,6 +44,7 @@
 - [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
+- [productivity](#productivity)
 - [pwa](#pwa)
 - [reactjs](#reactjs)
 - [rust](#rust)
@@ -322,6 +323,10 @@
 ## postgresql 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+## productivity 
+
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
 ## pwa 
 
