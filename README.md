@@ -128,7 +128,6 @@
 - [godders/pockettype-keycaps](https://github.com/godders/pockettype-keycaps) - 3D printable keys for PocketType keyboards
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
 ## PHP 
 
@@ -156,6 +155,7 @@
 
 - [lewis6991/gh_notify.tmux](https://github.com/lewis6991/gh_notify.tmux) - Github notification widget for tmux.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 ## TypeScript 
