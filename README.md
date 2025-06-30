@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [Fennel](#fennel)
 - [Go](#go)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Lua](#lua)
@@ -55,6 +56,10 @@
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tris203/htmxx](https://github.com/tris203/htmxx) - A sort of copy of X written in Go and HTMX - available at htmxx.com
+
+## HTML 
+
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
 ## JavaScript 
 
@@ -135,6 +140,7 @@
 
 ## Python 
 
+- [tggm/rointe-radiators](https://github.com/tggm/rointe-radiators) - A HACS repo for the Home Assistant Rointe Integration
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
