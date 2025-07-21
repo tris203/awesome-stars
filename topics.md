@@ -300,7 +300,7 @@
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) - Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
-- [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Hopefully, support for rzls in neovim
+- [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Support for rzls in neovim
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
