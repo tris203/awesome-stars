@@ -16,6 +16,7 @@
 - [cli](#cli)
 - [csharp](#csharp)
 - [database](#database)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -108,6 +109,10 @@
 
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+
+## developer-tools 
+
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
 ## devops 
 
