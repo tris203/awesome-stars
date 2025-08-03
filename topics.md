@@ -239,7 +239,6 @@
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
-- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) - 🤖 Neovim code suggestion and completion (just like GitHub Copilot, but locally using Ollama)
@@ -307,6 +306,7 @@
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) - Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) - Support for rzls in neovim
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) - Github action for typechecking a neovim plugin
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [fortress-build/.github](https://github.com/fortress-build/.github) - 
