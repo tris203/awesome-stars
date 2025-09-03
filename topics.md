@@ -276,6 +276,7 @@
 
 ## others 
 
+- [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
