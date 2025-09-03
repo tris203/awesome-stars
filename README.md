@@ -64,6 +64,7 @@
 
 ## JavaScript 
 
+- [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
