@@ -77,6 +77,7 @@
 
 ## Lua 
 
+- [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) - A Salesforce plugin for Neovim.
 - [zapling/mason-lock.nvim](https://github.com/zapling/mason-lock.nvim) - Lockfile suppport for mason.nvim
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
