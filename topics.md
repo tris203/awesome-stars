@@ -203,6 +203,7 @@
 
 ## lua 
 
+- [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) - A Salesforce plugin for Neovim.
 - [zapling/mason-lock.nvim](https://github.com/zapling/mason-lock.nvim) - Lockfile suppport for mason.nvim
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
@@ -234,6 +235,7 @@
 
 ## neovim 
 
+- [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) - A Salesforce plugin for Neovim.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) - ⚙️ Configurable GitHub Copilot blink.cmp source for Neovim
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim
