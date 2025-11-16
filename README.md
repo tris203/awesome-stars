@@ -29,7 +29,6 @@
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
 
 ## C# # 
 
@@ -65,6 +64,7 @@
 ## JavaScript 
 
 - [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
+- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
