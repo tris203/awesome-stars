@@ -39,6 +39,7 @@
 - [markdown](#markdown)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [neovim-colorscheme](#neovim-colorscheme)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -262,6 +263,10 @@
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## neovim-colorscheme 
+
+- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
 
 ## nextjs 
 
