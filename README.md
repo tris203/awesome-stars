@@ -166,6 +166,7 @@
 
 - [lewis6991/gh_notify.tmux](https://github.com/lewis6991/gh_notify.tmux) - Github notification widget for tmux.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
@@ -181,7 +182,6 @@
 
 ## Vim Script 
 
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Zig 
