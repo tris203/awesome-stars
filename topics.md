@@ -287,6 +287,7 @@
 
 ## others 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [mhale/smtpd](https://github.com/mhale/smtpd) - An SMTP server package written in Go, in the style of the built-in HTTP server.
 - [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
