@@ -287,6 +287,9 @@
 
 ## others 
 
+- [rootiest/printcfg](https://github.com/rootiest/printcfg) - A suite of macros to enhance the klipper experience
+- [rootiest/zippy_guides](https://github.com/rootiest/zippy_guides) - Guides for Klipper Things
+- [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [mhale/smtpd](https://github.com/mhale/smtpd) - An SMTP server package written in Go, in the style of the built-in HTTP server.
 - [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
