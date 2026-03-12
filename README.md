@@ -132,6 +132,8 @@
 
 ## Others 
 
+- [rootiest/zippy_guides](https://github.com/rootiest/zippy_guides) - Guides for Klipper Things
+- [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [willothy/mcp-lsp](https://github.com/willothy/mcp-lsp) - 
 - [Crashdummyy/rzls](https://github.com/Crashdummyy/rzls) - Crawls the rzls and uplöads it as github release
 - [Syndim/mason-registry](https://github.com/Syndim/mason-registry) - 
@@ -164,6 +166,7 @@
 
 ## Shell 
 
+- [rootiest/printcfg](https://github.com/rootiest/printcfg) - A suite of macros to enhance the klipper experience
 - [lewis6991/gh_notify.tmux](https://github.com/lewis6991/gh_notify.tmux) - Github notification widget for tmux.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
