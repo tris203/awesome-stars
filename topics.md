@@ -49,6 +49,7 @@
 - [php](#php)
 - [productivity](#productivity)
 - [pwa](#pwa)
+- [raspberry-pi](#raspberry-pi)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -57,6 +58,7 @@
 - [svelte](#svelte)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [vim](#vim)
 - [windows](#windows)
@@ -360,6 +362,10 @@
 
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 
+## raspberry-pi 
+
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
+
 ## rust 
 
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
@@ -396,6 +402,10 @@
 
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+
+## telegram 
+
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 
 ## terminal 
 
