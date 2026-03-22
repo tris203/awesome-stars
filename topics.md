@@ -289,6 +289,7 @@
 
 ## others 
 
+- [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [rootiest/printcfg](https://github.com/rootiest/printcfg) - A suite of macros to enhance the klipper experience
 - [rootiest/zippy_guides](https://github.com/rootiest/zippy_guides) - Guides for Klipper Things
 - [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
