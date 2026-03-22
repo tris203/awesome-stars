@@ -148,6 +148,7 @@
 
 ## Python 
 
+- [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [tggm/rointe-radiators](https://github.com/tggm/rointe-radiators) - A HACS repo for the Home Assistant Rointe Integration
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
