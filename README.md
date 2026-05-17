@@ -181,7 +181,6 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [tris203/bigreghuntTS](https://github.com/tris203/bigreghuntTS) - 
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [wrkout/exercises.json](https://github.com/wrkout/exercises.json) - Open Public Domain Exercise Dataset in JSON format
