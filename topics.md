@@ -342,7 +342,6 @@
 - [willothy/nvim-colorizer.lua](https://github.com/willothy/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) - ⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
-- [tris203/bigreghuntTS](https://github.com/tris203/bigreghuntTS) - 
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
 - [DisboxApp/server](https://github.com/DisboxApp/server) - The Disbox server.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
