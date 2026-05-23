@@ -44,6 +44,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
 - [php](#php)
@@ -85,6 +86,7 @@
 
 ## c 
 
+- [Ors1mer/QuadcastRGB](https://github.com/Ors1mer/QuadcastRGB) - Set RGB lights on HyperX QuadCast S and Duocast
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -201,6 +203,7 @@
 
 ## linux 
 
+- [Ors1mer/QuadcastRGB](https://github.com/Ors1mer/QuadcastRGB) - Set RGB lights on HyperX QuadCast S and Duocast
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
@@ -287,6 +290,10 @@
 ## npm 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+
+## open-source 
+
+- [Ors1mer/QuadcastRGB](https://github.com/Ors1mer/QuadcastRGB) - Set RGB lights on HyperX QuadCast S and Duocast
 
 ## others 
 
