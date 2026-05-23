@@ -27,6 +27,7 @@
 
 ## C 
 
+- [Ors1mer/QuadcastRGB](https://github.com/Ors1mer/QuadcastRGB) - Set RGB lights on HyperX QuadCast S and Duocast
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
