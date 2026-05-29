@@ -11,6 +11,7 @@
 - [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Lua](#lua)
@@ -62,6 +63,10 @@
 ## HTML 
 
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+
+## Haskell 
+
+- [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 
 ## JavaScript 
 
