@@ -73,7 +73,6 @@
 - [Kraust/nvim-server](https://github.com/Kraust/nvim-server) - Neovim in the Browser
 - [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DisboxApp/extension](https://github.com/DisboxApp/extension) - The Disbox chrome extension.
 - [DisboxApp/server](https://github.com/DisboxApp/server) - The Disbox server.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
@@ -184,10 +183,11 @@
 
 ## TypeScript 
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI spend goes. Interactive TUI dashboard for token usage and cost across Claude Code, Codex, Cursor, and 25+ more AI tools. npx codeburn
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [wrkout/exercises.json](https://github.com/wrkout/exercises.json) - Open Public Domain Exercise Dataset in JSON format
