@@ -304,6 +304,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 - [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [rootiest/printcfg](https://github.com/rootiest/printcfg) - A suite of macros to enhance the klipper experience
