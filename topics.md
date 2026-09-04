@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [angular](#angular)
 - [api](#api)
 - [awesome](#awesome)
@@ -64,6 +65,10 @@
 - [terminal](#terminal)
 - [vim](#vim)
 - [windows](#windows)
+
+## ai 
+
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## angular 
 
@@ -190,7 +195,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
 
 ## html 
@@ -218,6 +222,7 @@
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) - 🤖 Neovim code suggestion and completion (just like GitHub Copilot, but locally using Ollama)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## lua 
 
