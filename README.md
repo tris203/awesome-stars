@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [Fennel](#fennel)
 - [Go](#go)
-- [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Just](#just)
@@ -59,10 +58,6 @@
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tris203/htmxx](https://github.com/tris203/htmxx) - A sort of copy of X written in Go and HTMX - available at htmxx.com
-
-## HTML 
-
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
 ## Haskell 
 
@@ -187,6 +182,7 @@
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [tris203/disftp](https://github.com/tris203/disftp) - FTP Implementation of Disbox
