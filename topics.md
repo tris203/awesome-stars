@@ -309,6 +309,7 @@
 
 ## others 
 
+- [k-grube/connectwise-rest](https://github.com/k-grube/connectwise-rest) - A nodejs module for interacting with the ConnectWise REST API
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 - [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
