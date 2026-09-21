@@ -178,6 +178,7 @@
 
 ## TypeScript 
 
+- [k-grube/connectwise-rest](https://github.com/k-grube/connectwise-rest) - A nodejs module for interacting with the ConnectWise REST API
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
